@@ -55,8 +55,8 @@ Description: Schedule or update an interview.
 
 
 # Running Locally
-git clone https://github.com/Stary7/arcade/tree/main
-cd arcade
+## git clone https://github.com/Stary7/arcade/tree/main
+## cd arcade
 
 # npm install
 # npm run dev
